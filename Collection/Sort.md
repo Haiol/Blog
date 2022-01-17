@@ -11,7 +11,7 @@ pair에 접근할 땐 it.first it.second 이이런식으로 하면 된다.
 var sorted = planedit.sortedBy{it.first}
 ```
 
-내림차순으로 정렬할 땐 **sortedByDescending()**을 사용하면 된다.
+내림차순으로 정렬할 땐 **sortedByDescending()** 을 사용하면 된다.
 
 # sortedWith
 <pre>
